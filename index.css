@@ -79,7 +79,7 @@ label::after {
 }
 
 input:checked + label {
-  background-color: black;
+  background-color: #333333;
 }
 
 input:checked + label::after {
